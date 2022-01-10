@@ -17,6 +17,9 @@ export default defineComponent({
     const addCounter = () => {
       this.counter++
     }
+    const func = () => {
+
+    }
   }
 })
 </script>
