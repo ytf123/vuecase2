@@ -15,7 +15,7 @@ export default defineComponent({
     let counter = ref(0);
 
     const addCounter = () => {
-      this.counter++;
+      this.counter++
     }
   }
 })
