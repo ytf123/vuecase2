@@ -1,0 +1,5 @@
+/dist/
+*.jsx
+/public/
+/src/web/components/DJQSign.js
+/src/utils/parseCert.js
