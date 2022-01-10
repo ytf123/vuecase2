@@ -12,10 +12,10 @@ import { defineComponent } from '@vue/composition-api'
 
 export default defineComponent({
   setup() {
-    let counter = ref(0);
+    let counter = ref(0)
 
     const addCounter = () => {
-      this.counter++;
+      this.counter++
     }
   }
 })
