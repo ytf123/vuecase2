@@ -19,6 +19,8 @@ export default defineComponent({
     }
 
     const func = () => {}
+
+    const func2 = () => {}
   }
 })
 </script>
