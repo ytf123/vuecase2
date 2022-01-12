@@ -19,7 +19,6 @@ module.exports = {
       "named": "ignore",
       "asyncArrow": "ignore"
     }],
-    "beforeStatementContinuationChars": 'off'
   },
   overrides: [
     {
