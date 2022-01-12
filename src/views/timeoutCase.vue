@@ -22,9 +22,7 @@ export default defineComponent({
 
     const func2 = () => {}
 
-    const fun3 = () => {}
-
-    const func4 = () => {}
+    const fun3 =() => {}
   }
 })
 </script>
